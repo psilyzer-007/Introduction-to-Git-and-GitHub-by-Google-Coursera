@@ -8,4 +8,4 @@ Q 3) Name two ways to avoid having to enter our password when retrieving and whe
 Ans : Use Credential Helper or use SSH key-pair
 
 Q 4) Name the command that gathers all the snapshots we've taken and sends them to the remote repository.
-Ans : git push
+Ans : git clone<url>
